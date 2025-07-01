@@ -1,0 +1,34 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 20px;
+  background-color: #f5f7fa;
+  color: #333;
+}
+header {
+  background: #0c7b93;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+section, form {
+  margin: 20px auto;
+  max-width: 600px;
+}
+input, button {
+  display: block;
+  margin: 10px 0;
+  padding: 10px;
+  width: 100%;
+}
+.donate-btn {
+  background-color: #e84545;
+  color: white;
+  padding: 12px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+footer {
+  margin-top: 40px;
+  text-align: center;
+}
